@@ -48,8 +48,3 @@ plt.xticks(index, ps.index, fontsize=7, rotation=60)
 plt.title('Total Europe Countries from 1998-2017 (Period 1998-2007)')
 plt.bar(ps.index, ps.values/2800)
 #plt.show();
-
-
-
-
-
